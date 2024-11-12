@@ -128,6 +128,8 @@ var
 
   lIntResult: integer;
   lStrResult: string;
+
+  iIntCounter: integer;
 begin
   for lForm in pProgram.Values do
   begin
@@ -150,10 +152,16 @@ begin
       begin
         lArgs := lForm.Argumenst;
         lIntResult := 0;
+        iIntCounter := 0;
 
         for lArgName in lArgs do
         begin
-          lIntResult := lIntResult - IntegerStack.Items[lArgName];
+          if (iIntCounter = 0) then 
+	  begin
+            lIntResult := IntegerStack.Items[lArgName];
+	    Inc(iIntCounter);
+	  end  
+          else lIntResult := lIntResult - IntegerStack.Items[lArgName];
         end;
 
         WriteLn('SUB> ' + IntToStr(lIntResult));
