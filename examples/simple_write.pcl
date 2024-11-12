@@ -1,0 +1,2 @@
+(defs x "Hello World!")
+(write x)

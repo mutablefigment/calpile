@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="compiler.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="48"/>
+        <CursorPos X="33"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="parser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="74"/>
+        <CursorPos Y="117"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="lexer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Lexer"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="131"/>
+        <CursorPos X="57" Y="158"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="types.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Types"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="12"/>
+        <UsageCount Value="64"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/nix/store/wd24bzj2zpzc7mxsk7sf763yvhn40dc8-lazarus-gtk2-3.2-0/share/fpcsrc/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1311"/>
+        <CursorPos X="11" Y="1336"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/nix/store/wd24bzj2zpzc7mxsk7sf763yvhn40dc8-lazarus-gtk2-3.2-0/share/fpcsrc/rtl/inc/objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="149"/>
+        <CursorPos X="23" Y="206"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tokens.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="8"/>
+        <CursorPos X="6" Y="27"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <WindowIndex Value="1"/>
+          <TopLine Value="16"/>
+          <CursorPos X="43" Y="62"/>
+        </ExtraEditor1>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/nix/store/wd24bzj2zpzc7mxsk7sf763yvhn40dc8-lazarus-gtk2-3.2-0/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="324"/>
+        <CursorPos X="35" Y="270"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/nix/store/wd24bzj2zpzc7mxsk7sf763yvhn40dc8-lazarus-gtk2-3.2-0/share/fpcsrc/rtl/objpas/sysutils/syshelph.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos X="22" Y="109"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/nix/store/wd24bzj2zpzc7mxsk7sf763yvhn40dc8-lazarus-gtk2-3.2-0/share/fpcsrc/packages/rtl-objpas/src/inc/rtti.pp"/>
+        <UnitName Value="Rtti"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="450"/>
+        <CursorPos X="3" Y="474"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/nix/store/wd24bzj2zpzc7mxsk7sf763yvhn40dc8-lazarus-gtk2-3.2-0/share/lazarus/components/codetools/codecache.pas"/>
+        <UnitName Value="CodeCache"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="249"/>
+        <CursorPos Y="273"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/nix/store/wd24bzj2zpzc7mxsk7sf763yvhn40dc8-lazarus-gtk2-3.2-0/share/fpcsrc/rtl/objpas/typinfo.pp"/>
+        <UnitName Value="TypInfo"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="855"/>
+        <CursorPos X="95" Y="888"/>
+        <UsageCount Value="28"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/nix/store/wd24bzj2zpzc7mxsk7sf763yvhn40dc8-lazarus-gtk2-3.2-0/share/fpcsrc/packages/rtl-generics/src/inc/generics.dictionariesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="244"/>
+        <CursorPos X="15" Y="259"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/nix/store/wd24bzj2zpzc7mxsk7sf763yvhn40dc8-lazarus-gtk2-3.2-0/share/fpcsrc/packages/rtl-generics/src/generics.collections.pas"/>
+        <UnitName Value="Generics.Collections"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1159"/>
+        <CursorPos X="20" Y="1186"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/nix/store/wd24bzj2zpzc7mxsk7sf763yvhn40dc8-lazarus-gtk2-3.2-0/share/fpcsrc/packages/fcl-base/src/custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="54"/>
+        <CursorPos X="14" Y="75"/>
+        <UsageCount Value="11"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="150" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="143" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="146" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="147" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="148" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="150" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="143" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="146" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="147" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="148" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="150" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="143" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="146" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="147" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="148" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="150" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="143" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="146" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="147" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="148" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="150" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="143" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="146" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="147" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="148" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="150" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="143" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="163" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="164" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="lexer.pas"/>
+        <Caret Line="128" Column="11" TopLine="110"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <CommandLineParams Value="-i ./examples/simple_write.pcl"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="WorkingDirectory" Type="File" Count="1"/>
+      <List Name="LaunchingApplication" Type="File" Count="2">
+        <Item2 Value="/run/current-system/sw/bin/konsole -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </List>
+      <List Name="CommandLineParameters" Count="2">
+        <Item1 Value="-i ./examples/simple_write.pcl"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="lexer.pas"/>
+        <Line Value="79"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="lexer.pas"/>
+        <Line Value="234"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="lexer.pas"/>
+        <Line Value="169"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

@@ -1,0 +1,3 @@
+(defi x 1);
+(defi y 1);
+(sub x y);

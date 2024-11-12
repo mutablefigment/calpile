@@ -1,0 +1,3 @@
+(defi x 1)
+(defi y (add x 2))
+(write y)
